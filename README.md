@@ -371,6 +371,7 @@ A short list — read these *carefully*, ideally with the [Annotated Transformer
 - [Simon Willison](https://simonwillison.net/) — Best daily LLM news + experiments.
 - [Distill.pub](https://distill.pub/) — Interactive, visual ML research papers.
 - [Hugging Face Blog](https://huggingface.co/blog) — Tutorials, releases, model cards.
+- [Calder Brief — AI Hub](https://calder-brief.pages.dev/ai-hub.html) — News and explainers on AI models, agents, and enterprise AI.
 
 ---
 
