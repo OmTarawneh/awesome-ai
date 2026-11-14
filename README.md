@@ -382,6 +382,7 @@ A short list — read these *carefully*, ideally with the [Annotated Transformer
 - [Ben's Bites](https://bensbites.com/) — Daily AI news, short.
 - [Latent Space](https://www.latent.space/) — Deep dives on the AI engineering stack.
 - [TLDR AI](https://tldr.tech/ai) — 5-minute daily roundup.
+- [AIHOT Weekly](https://aihot.news/weekly) — A Chinese-language weekly roundup of AI model releases, research and industry developments.
 
 ### Podcasts
 - [Lex Fridman](https://lexfridman.com/podcast/) — Long-form interviews with researchers.
